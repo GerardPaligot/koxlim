@@ -1,0 +1,14 @@
+# IntelliJ IDEA
+*.iml
+.idea
+!.idea/codeStyleSettings.xml
+!.idea/copyright
+
+# Gradle
+.gradle
+build
+/reports
+local.properties
+
+# Mac OS
+.DS_Store
