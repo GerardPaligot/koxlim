@@ -8,4 +8,5 @@ sourceSets {
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:${versions.kotlin}"
     testCompile 'junit:junit:4.12'
+    testCompile 'com.willowtreeapps.assertk:assertk:0.9'
 }
